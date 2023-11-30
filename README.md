@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Порівняння тестів в Unity</title>
-  <style>
+</head>
+<body>
+    <style>
     .comparison-container {
       display: flex;
       justify-content: space-between;
@@ -13,8 +14,6 @@
       height: auto;
     }
   </style>
-</head>
-<body>
   # AnimationBakerTemplates
   the free mini asset for baking animations
   Asset work with model that had only one maderial (renderer object) so for example model and weapon may has unique models
