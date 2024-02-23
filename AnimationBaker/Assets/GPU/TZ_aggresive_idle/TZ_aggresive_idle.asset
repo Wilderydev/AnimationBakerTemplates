@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5828cbef1e348ee81827ce57cfac0bf, type: 3}
+  m_Name: TZ_aggresive_idle
+  m_EditorClassIdentifier: 
+  enableLooping: 1
+  loop: 1
+  length: 2.3333335
+  shader: {fileID: 4800000, guid: cf855a785513eeb49a597ecc22f88d0e, type: 3}
+  main: {fileID: 2800000, guid: ed5fe3eb3f4c6e64bae7e0e758712255, type: 3}
+  materialTemplate: {fileID: 2100000, guid: e086bb343b2fd4144b601aa2f09afcfa, type: 2}
+  materialTemplateObject:
+  - {fileID: 2100000, guid: a43516e315bcbcc458029022f8ed156b, type: 2}
+  - {fileID: 2100000, guid: 268acb6e851d5aa4da12ec2702e18b41, type: 2}
+  - {fileID: 2100000, guid: 152c43dcd9a03784ea401c0e52da3b4c, type: 2}
+  tangMaterialTexture2D:
+  - {fileID: 2800000, guid: f3481255575562e4f90fb198bdb45130, type: 2}
+  - {fileID: 2800000, guid: 2231d344fc7c2994285b3b0587d5fb0d, type: 2}
+  - {fileID: 2800000, guid: 3063e63b9c543b042ae18e16e6d6ae06, type: 2}
+  positionMaterialTexture2D:
+  - {fileID: 2800000, guid: a39cd9f517e4ca3429c53982806ce1ab, type: 2}
+  - {fileID: 2800000, guid: be01ad72f33e5f846828c7e9026665bb, type: 2}
+  - {fileID: 2800000, guid: 776acbd5d18a1bb4f9cc3b3ca136bde5, type: 2}
+  normalMaterialTexture2D:
+  - {fileID: 2800000, guid: fb07e655f08fce041808587ec47cb07a, type: 2}
+  - {fileID: 2800000, guid: 51a0718e486d0924d8e831a32e872c27, type: 2}
+  - {fileID: 2800000, guid: 7c4cf9fe03c5a364da8e0ad82ace1b7c, type: 2}

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using AnimationBakerTemplates.Base;
 using UnityEditor;
 using UnityEngine;
 

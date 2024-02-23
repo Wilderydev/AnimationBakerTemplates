@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a219a5cebfdb4b2c80ff428085165b01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - baker: {fileID: 11400000, guid: 9d74d1b887f1b774395a5be6cf5f3df5, type: 2}
+  - clip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
